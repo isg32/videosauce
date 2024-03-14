@@ -1,5 +1,7 @@
 # Videosauce
- Movie / Shows streaming app I made out of Boredem 
+## Movie / Shows streaming app I made out of Boredem 
+
+[ 😭 Please don't spam me for exe file, Its [Here](https://github.com/isg32/videosauce/releases/) ]
 
 ### Screenshots
 |R1 | R2|
